@@ -6,14 +6,16 @@ Fixture                    : GenerateParseDemo
  Platform                  : Unix/Native/64
 
 Test case                  : MFUT_TESTMAXITEMS
- Status                    : Completed / Passed
+ Status                    : Completed / Failed
  Test Style                : COBOL
  Time taken in ms          : 0
  Return Code               : 00000000000000000000
+ Fail message count        : 1
+  Max items exceeded
 
 Test Run Summary
- Overall Result            : Passed
+ Overall Result            : Failed
  Tests run                 : 1
- Tests passed              : 1
- Tests failed              : 0
+ Tests passed              : 0
+ Tests failed              : 1
  Total execution time      : 0
