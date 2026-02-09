@@ -1,0 +1,19 @@
+Rocket (R) COBOL - cobmfurun64 Utility
+Unit Testing Framework for Unix/Native/64
+
+Fixture                    : GenerateParseDemo
+ Test Runner Trigger       : cobmfurun64
+ Platform                  : Unix/Native/64
+
+Test case                  : MFUT_TESTMAXITEMS
+ Status                    : Completed / Passed
+ Test Style                : COBOL
+ Time taken in ms          : 0
+ Return Code               : 00000000000000000000
+
+Test Run Summary
+ Overall Result            : Passed
+ Tests run                 : 1
+ Tests passed              : 1
+ Tests failed              : 0
+ Total execution time      : 0
