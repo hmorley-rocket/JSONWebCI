@@ -3,7 +3,7 @@ const port = 65431;
 
 // Set up server
 const app = express();
-const webRoot = './';
+const webRoot = './src/web';
 app.use(express.static(webRoot));
 app.listen(port);
 

@@ -5,9 +5,9 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "run": "node webServer.js",
-        "test": "node --watch webServer.js",
-        "start": "node --watch webServer.js"
+        "run": "node src/web/webServer.js",
+        "test": "node --watch --trace-warnings src/web/webServer.js",
+        "start": "node --watch src/web/webServer.js"
     },
     "author": "Harrison Morley",
     "license": "ISC",
